@@ -1,5 +1,5 @@
 var options = {
-	strings: [ 'full stack web developer', 'foodie', 'dog dad', 'geek' ],
+	strings: [ 'full stack developer', 'foodie', 'dog dad', 'geek' ],
 	loop: true,
 	startDelay: 1750,
 	typeSpeed: 50,
